@@ -1,7 +1,8 @@
+package securcom;
+
 import javacard.framework.*;
 
 public class Securcom extends Applet {
-
     // AID for our applet
     // final static byte[] AID = {(byte) 0xA0, 0x00, 0x00, 0x00, 0x62, 0x03, 0x01, 0x08, 0x01, 0x01};
 
@@ -128,4 +129,3 @@ public class Securcom extends Applet {
         pin.update(newPINValue, (short) 0, (byte) newPINValue.length);
     }
 }
-
