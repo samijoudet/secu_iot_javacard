@@ -29,7 +29,7 @@ This script is a command-line application for interacting with a smart card. It 
 3. Run the script with the desired options:
 
     ```bash
-    python terminal_app.py 
+    python3 RSA.py 
     ```
 4 . The PIN code is 0000 by default.
 
