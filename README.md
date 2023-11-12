@@ -1,4 +1,4 @@
-# secu_iot_javacard
+# Secu_iot_javacard
 Projet de travail sur une java card dans le cadre d'un projet de sécurité
 
 # Smart Card Interaction Script
