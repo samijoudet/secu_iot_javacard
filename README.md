@@ -1,5 +1,7 @@
 # Secu_iot_javacard
 Projet de travail sur une java card dans le cadre d'un projet de sécurité
+Groupe 7
+Participant : Yasmine Bouakroucha, Moenes Zribi and Sami Joudet 
 
 # Smart Card Interaction Script
 
