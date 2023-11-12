@@ -1,10 +1,6 @@
 # secu_iot_javacard
 Projet de travail sur une java card dans le cadre d'un projet de sécurité
 
-le terminal n'est pas tester
- 
-readme 
-
 # Smart Card Interaction Script
 
 This script is a command-line application for interacting with a smart card. It provides options for various actions related to smart card operations.
